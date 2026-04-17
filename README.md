@@ -31,8 +31,42 @@
 </p>
 
 ---
-🧰 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,linux"/><br> <img src="https://skillicons.dev/icons?i=github,git,jenkins,ansible,helm"/><br> <img src="https://skillicons.dev/icons?i=python,bash,powershell"/> </p>
+## 🧰 Tech Stack
+
+<p align="center">
+
+☁️ Cloud & Platform  
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker"/><br>
+
+⚙️ Infrastructure & IaC  
+<img src="https://skillicons.dev/icons?i=terraform,ansible"/><br>
+
+🔄 CI/CD & GitOps  
+<img src="https://skillicons.dev/icons?i=github,githubactions,jenkins"/><br>
+
+🚀 Release & Orchestration  
+<img src="https://skillicons.dev/icons?i=helm"/><br>
+
+💻 Scripting & Automation  
+<img src="https://skillicons.dev/icons?i=python,bash,powershell"/><br>
+
+🖥️ Systems  
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+### 🚀 Enterprise Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Harness-GitOps%20%2F%20CD-0F0F0F?style=for-the-badge&logo=harness&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spinnaker-Release%20Management-1F4FFF?style=for-the-badge&logo=spinnaker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terragrunt-IaC%20Orchestration-7B42BC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</p>
 
 📫 Connect
 <p align="center"> <a href="mailto:bhagatraj192@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/bhagatraj-devopsengineer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> ```
