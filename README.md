@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif"/>
+<img align="right" height="180" src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png"/>
 
 ## 🚀 About Me
 
@@ -44,9 +44,6 @@
 🔄 CI/CD & GitOps  
 <img src="https://skillicons.dev/icons?i=github,githubactions,jenkins"/><br>
 
-🚀 Release & Orchestration  
-<img src="https://skillicons.dev/icons?i=helm"/><br>
-
 💻 Scripting & Automation  
 <img src="https://skillicons.dev/icons?i=python,bash,powershell"/><br>
 
@@ -65,6 +62,7 @@
 <img src="https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-Kubernetes%20Package%20Manager-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 
 </p>
 
