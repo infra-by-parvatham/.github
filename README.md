@@ -57,6 +57,110 @@
 </p>
 
 ---
+# 🏢 Professional Experience
+
+---
+
+## ✈️ Air Canada — Senior Cloud & Infrastructure Engineer
+
+<p align="left">
+☁️ <b>Azure</b> • 🧱 <b>Terraform</b> • ☸️ <b>Kubernetes (AKS)</b> • ⛵ <b>Helm</b> • 🔄 <b>Azure DevOps</b> • ⚙️ <b>PowerShell</b> • 🐚 <b>Bash</b><br>
+🔁 <b>GitHub Actions</b> • 🚀 <b>Harness (GitOps)</b> • 📊 <b>Dynatrace</b> • 🎫 <b>ServiceNow</b> • 🤖 <b>Azure Automation</b>
+</p>
+
+### 🔧 Responsibilities
+- Built enterprise-grade **Azure infrastructure using Terraform**
+- Managed large-scale **AKS Kubernetes platforms**
+- Designed and maintained **CI/CD pipelines (Azure DevOps + GitHub Actions + Harness)**
+- Automated infrastructure using **PowerShell & Bash scripting**
+- Integrated **Dynatrace for observability and monitoring**
+- Implemented **ServiceNow ITSM workflows for operations**
+- Managed **secrets, SSL certificates, RBAC, and governance policies**
+- Delivered **GitOps-based deployment strategies**
+
+### 📈 Impact
+- 🚀 80% reduction in manual infrastructure provisioning  
+- ⚡ Improved deployment reliability and rollout speed  
+- 🏗️ Enabled scalable multi-team DevOps platform  
+
+---
+
+## 🛒 Staples — Azure DevOps Engineer
+
+<p align="left">
+☁️ <b>Azure DevOps</b> • 🧱 <b>Terraform</b> • ☸️ <b>AKS</b> • ⛵ <b>Helm Charts</b> • 🗄️ <b>SQL</b> • ⚙️ <b>PowerShell</b><br>
+📦 <b>Terragrunt</b> • 🐳 <b>Docker Desktop</b> • 🐧 <b>Linux</b> • 🪟 <b>Windows</b> • 🔧 <b>Git</b> • 🐙 <b>GitHub</b>
+</p>
+
+### 🔧 Responsibilities
+- Built **Azure DevOps CI/CD pipelines (YAML-based)**
+- Designed **AKS microservices deployment architecture**
+- Implemented **Terraform + Terragrunt modular infrastructure**
+- Managed **SQL databases and secure networking in Azure**
+- Implemented **SSL certificate management and SAS token security**
+- Debugged Kubernetes workloads using **K9s**
+- Built automation scripts using **PowerShell**
+- Supported hybrid **Windows + Linux infrastructure**
+
+### 📈 Impact
+- 🚀 60% faster deployment cycles  
+- 🧱 Standardized infrastructure provisioning  
+- 🔐 Improved cloud security and governance  
+
+---
+
+## 📰 Thomson Reuters — DevOps Engineer
+
+<p align="left">
+☁️ <b>AWS</b> • 🧱 <b>Terraform</b> • 🏗️ <b>CloudFormation</b> • 🔄 <b>Jenkins</b> • ⚙️ <b>Ansible</b><br>
+🐳 <b>Docker</b> • ☸️ <b>Kubernetes</b> • 🐍 <b>Python</b> • 🐧 <b>Linux</b> • 🔐 <b>IAM</b><br>
+🗄️ <b>S3</b> • 🗄️ <b>RDS</b> • ⚡ <b>Lambda</b>
+</p>
+
+### 🔧 Responsibilities
+- Built enterprise **CI/CD pipelines using Jenkins**
+- Automated AWS infrastructure using **Terraform & CloudFormation**
+- Managed **AWS IAM, S3, RDS, Lambda services**
+- Built configuration automation using **Ansible**
+- Containerized applications using **Docker & Kubernetes**
+- Implemented logging and monitoring pipelines
+- Supported production-grade deployments
+
+### 📈 Impact
+- ⚡ Faster release cycles  
+- 🧯 Reduced manual deployment failures  
+- 📊 Improved system observability  
+
+---
+
+# 🧰 Complete Tech Stack (Unified Engineering View)
+
+## ☁️ Cloud & Infrastructure
+Microsoft Azure • AWS • GCP • Azure DevOps Services  
+
+## ⚙️ DevOps & Automation
+Terraform • Terragrunt • Ansible • Jenkins • GitHub Actions • Harness • Git  
+
+## ☸️ Containers & Orchestration
+Kubernetes • AKS • Docker • Docker Swarm • Helm • K9s  
+
+## 💻 Programming & Scripting
+Python • Bash • PowerShell • TypeScript • Node.js  
+
+## 🗄️ Databases & Storage
+SQL • Azure SQL • AWS RDS • Amazon S3  
+
+## 🔐 Security & Networking
+SSL Certificates • SAS Tokens • Azure IAM • AWS IAM  
+
+## 📊 Monitoring & Observability
+Dynatrace • Azure Monitor • Logging Systems  
+
+## 🖥️ Operating Systems
+Linux • Windows • Red Hat • Unix  
+
+## 🔄 Enterprise Tools
+ServiceNow • Jira • Agile Methodologies  
 
 ### 🧠 Certification Details
 
