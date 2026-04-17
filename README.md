@@ -19,15 +19,15 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=infra-by-parvatham&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bhagatraj77knowledge-hue&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160" src="https://streak-stats.demolab.com?user=infra-by-parvatham&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://streak-stats.demolab.com?user=bhagatraj77knowledge-hue&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=infra-by-parvatham&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagatraj77knowledge-hue&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
