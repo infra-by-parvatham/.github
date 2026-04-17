@@ -12,15 +12,14 @@
 
 ## 🚀 About Me
 
-- ✈️ Senior Cloud Engineer @ **Air Canada**
-- ☁️ Expert in **Azure | Kubernetes | Terraform | CI/CD**
-- ⚙️ 4+ years building **production-grade cloud platforms**
-- 🔄 Focused on **automation, scalability, reliability**
-- 🎯 Goal: **Cloud Architect | DevOps Leader**
+- ✈️ Senior Cloud Engineer @ Air Canada  
+- 🌍 Based in Toronto, Canada  
+- ☁️ Azure | Kubernetes | Terraform | CI/CD  
+- 🎯 Goal: Cloud Architect / DevOps Leader  
 
 ---
 
-# 📊 GitHub Intelligence Dashboard
+# 📊 GitHub Dashboard
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=bhagatraj77knowledge-hue&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -32,25 +31,61 @@
 </p>
 
 ---
+🧰 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,linux"/><br> <img src="https://skillicons.dev/icons?i=github,git,jenkins,ansible,helm"/><br> <img src="https://skillicons.dev/icons?i=python,bash,powershell"/> </p>
 
-# 🧠 DevOps Architecture (What I Build)
+📫 Connect
+<p align="center"> <a href="mailto:bhagatraj192@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/bhagatraj-devopsengineer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> ```
 
-## ☁️ End-to-End Cloud Pipeline
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhagatraj77knowledge-hue&color=blue"/> </p>
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Harness-CD%20%26%20GitOps%20Developer-0A0A0A?style=for-the-badge&logo=harness&logoColor=white"/>
+<img src="https://img.shields.io/badge/FinOps-Foundation%20Certified-1F3A8A?style=for-the-badge&logo=finops&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</p>
+
+---
+
+### 🧠 Certification Details
+
+- 🏅 **Harness Certified Continuous Delivery & GitOps Developer**  
+  📅 Issued: Feb 2026  
+
+- 💰 **FinOps Foundation – Introduction to FinOps**  
+  📅 Issued: Feb 2026  
+  🆔 Credential ID: `c9mnayudhha2`  
+
+- ☁️ **Microsoft Certified: DevOps Engineer Expert**  
+  📅 Issued: Oct 2024 | ⏳ Expires: Oct 2025  
+  🆔 Credential ID: `23F6F3B821728811`  
+
+- 🛠️ **Microsoft Certified: Azure Administrator Associate**  
+  📅 Issued: Oct 2024 | ⏳ Expires: Oct 2025  
+  🆔 Credential ID: `37BEAF30C7E79BFA`  
+
+---
+# 🧠 DevOps Architecture
+
+## ☁️ End-to-End CI/CD Flow
 
 ```mermaid
 flowchart LR
-    Dev[Developer] --> Git[GitHub Repo]
+    Dev[Developer] --> Git[GitHub]
     Git --> CI[CI Pipeline]
     CI --> Build[Docker Build]
     Build --> Registry[Container Registry]
     Registry --> CD[CD Pipeline]
     CD --> AKS[Kubernetes Cluster]
-    AKS --> Monitor[Prometheus + Grafana]
-
-<p align="center">
-☁️ Cloud & Containers
-<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,linux"/>
-⚙️ DevOps Tools
-<img src="https://skillicons.dev/icons?i=github,git,jenkins,ansible,helm"/>
-💻 Scripting
-<img src="https://skillicons.dev/icons?i=python,bash,powershell"/> </p>
+    AKS --> Monitor[Monitoring]
