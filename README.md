@@ -46,3 +46,11 @@ flowchart LR
     Registry --> CD[CD Pipeline]
     CD --> AKS[Kubernetes Cluster]
     AKS --> Monitor[Prometheus + Grafana]
+
+<p align="center">
+☁️ Cloud & Containers
+<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,linux"/>
+⚙️ DevOps Tools
+<img src="https://skillicons.dev/icons?i=github,git,jenkins,ansible,helm"/>
+💻 Scripting
+<img src="https://skillicons.dev/icons?i=python,bash,powershell"/> </p>
